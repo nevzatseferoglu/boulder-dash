@@ -51,13 +51,10 @@ More info about ```extern``` : [1](https://jameshfisher.com/2017/08/28/c-extern-
 - **Dependency**
 
 There are three different library in addition to pure [SDL](https://www.libsdl.org/).
-
     - [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/)
       - It is an text file loading library.  
-    
     - [SDL_mixer](https://www.libsdl.org/projects/SDL_mixer/)
       - It is an audio file loading library.
-    
     - [SDL_image](https://www.libsdl.org/projects/SDL_image/)
       - It is an image file loading library.
   

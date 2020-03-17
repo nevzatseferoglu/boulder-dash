@@ -2,6 +2,7 @@
 ---
 
 ##Game History
+
 Boulder Dash, is a video game released in 1984 by First Star Software for Atari 8-bit computers.There have been numerous versions and sequels in this series for numerous interactive platforms including: Apple II, MSX, ZX Spectrum, Commodore 64, ColecoVision, NES, BBC Micro, Acorn Electron, IBM PC, Amstrad CPC, Amiga, Mac OS, and other platforms. It also influenced other games in the rocks-and-diamonds genre such as Repton in addition to rather direct clones such as Emerald Mine. The original Boulder Dash was created by Canadian developers Peter Liepa and Chris Gray, and on October 28, 1983, acquired by First Star Software, which still owns the rights to the game and the intellectual property, including the registered trademark: "Boulder Dash".
 - Reference : [wikipedia](https://en.wikipedia.org/wiki/Boulder_Dash)
 

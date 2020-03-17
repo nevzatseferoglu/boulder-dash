@@ -29,7 +29,7 @@ Actually all functions are extern as default but in my design structure I have .
 
 More info about ```extern``` : [1](https://jameshfisher.com/2017/08/28/c-extern-function/) , [2](https://www.tutorialspoint.com/extern-keyword-in-c) , [3](https://stackoverflow.com/questions/1041866/what-is-the-effect-of-extern-c-in-c)
 <center>
-    <img src="README-media/howToPlay.png" width="310">
+    <img src="README-media/howToPlay.png" width="410">
 </center>
 
 - **SDL - Simple DirectMedia Layer**
@@ -43,7 +43,7 @@ More info about ```extern``` : [1](https://jameshfisher.com/2017/08/28/c-extern-
 - #### Gameplay
 
     <center>
-    <img src="README-media/gameplay.gif" width="600">
+    <img src="README-media/gameplay.gif" width="650">
     </center>
 
 - **Dependency**

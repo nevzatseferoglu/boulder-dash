@@ -12,6 +12,7 @@ Boulder Dash, is a video game released in 1984 by First Star Software for Atari 
 </center>
 
 - **Project Purpose**
+
 The aim of the project was to create a replica game, as shown in pdf, rather than creating a new game.For this reason, I did not have to be very creative, but during the development phase, I encountered many tricky problems related to game dynamics.
 
 - **Challenges :**
@@ -25,6 +26,7 @@ The aim of the project was to create a replica game, as shown in pdf, rather tha
 </center>
 
 - **Why did you use ```extern``` every single header ?**
+
 Actually all functions are extern as default but in my design structure I have .c and .h files for each seperate unit.There should be a communication between different compilation unit on structure design. Extern actually does that.
 
 More info about ```extern``` : [1](https://jameshfisher.com/2017/08/28/c-extern-function/) , [2](https://www.tutorialspoint.com/extern-keyword-in-c) , [3](https://stackoverflow.com/questions/1041866/what-is-the-effect-of-extern-c-in-c)
@@ -47,6 +49,7 @@ More info about ```extern``` : [1](https://jameshfisher.com/2017/08/28/c-extern-
     </center>
 
 - **Dependency**
+
 There are three different library in addition to pure [SDL](https://www.libsdl.org/).
     - [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/)
       - It is an text file loading library.  

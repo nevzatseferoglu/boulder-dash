@@ -43,7 +43,7 @@ More info about ```extern``` : [1](https://jameshfisher.com/2017/08/28/c-extern-
 - #### Gameplay
 
     <center>
-    <img src="README-media/gameplay.gif" width="650">
+    <img src="README-media/gameplay.gif" width="750">
     </center>
 
 - **Dependency**

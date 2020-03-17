@@ -1,5 +1,4 @@
 # Boulder-Dash
----
 
 ## Game History
 

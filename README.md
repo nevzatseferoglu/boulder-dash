@@ -57,7 +57,9 @@ There are three different library in addition to pure [SDL](https://www.libsdl.o
   
 - **Installation**
     1 - Install indicated libraries that are above and also SDL itself.
+    
     2 - Type ```make``` on shell environment , it will be create executable file which's name ```game```.
+    
     3 - Run the executable ```./game```.
 
 - **Other projects that's created thanks to SDL**

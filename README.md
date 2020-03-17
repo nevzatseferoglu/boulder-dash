@@ -21,7 +21,7 @@ The aim of the project was to create a replica game, as shown in pdf, rather tha
   - Code structure was so crucial at first , because there are lots properties related to character , background audio , tiles which are rendered to the screen .I even did not find any sprite-sheet about boulder dash at first. I did not know object-oriented-programming while joining the parts of project. Exploiting struct data type was a good idea. I implemented unique structure for each seperated part of the game.
 
 <center>
-    <img src="README-media/standing.gif" width="340">
+    <img src="README-media/standing.gif" width="340" alt="Smiley face" align="middle">
     <img src="README-media/menu.png" width="410">
 </center>
 

@@ -1,8 +1,3 @@
-
-.center{
-
-}
-
 # Boulder-Dash
 
 ## Game History

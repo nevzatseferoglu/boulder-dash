@@ -1,0 +1,28 @@
+Id = 8
+Width = 40
+Height = 22
+Diamond = 3
+Time = 200
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+b.e.ree.e.ee.eere.eem.eere..eere.reee.eb
+bererreeeeee.eereeereeee.eeereeeeedrereb
+b.reereee..eeereere.eerereeebbbbbbbbbbbb
+beeed.eere.seeeeereeeee.eeeeeeeerr.reerb
+bbbbbbbbbbbbbeerereeee.e..eeeeeer..reerb
+be..eee.eere..eere..eeee.rrreeeee..ree.b
+beee.reee.see.eere..eeeeererreere.e.reeb
+beere.eere.reeee.eeeee.eeer.reereeee.eeb
+beeeeer.eeeeee.e..srre.eee..ree.ereeeerb
+brereee.e.reeeeee.eereeereeeereeeedre..b
+beeeeeere.reeeeeeeee.reereeebbbbbbbbbbbb
+berreeeeee.eere.eee.eere..eere..eee.reeb
+bbbbbbbbbbbbbreeeeeeee.eeereeeeeererreeb
+beereee..eeedeere.eererreeeeeeeeererreeb
+bee.eere.ereeessssssssseeeeeeee..reereeb
+bree.reeeereer.reeed.ee.eeeeeee..reerelb
+b.eee.eere.eeere..eeeeerrrreere.e.ree.rb
+be.reesereeee.e..eeeeeerr.reereee..eeerb
+bre..eere..eeeeerere.eee..reereeee.eeerb
+beee..erer.eeeeerereeeee...ee.ereeeereeb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb

@@ -1,0 +1,28 @@
+Id = 9
+Width = 40
+Height = 22
+Diamond = 4
+Time = 120
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bdddrrddrddrerrrrdrddeddrddrddddrrdrdrrb
+bdrrdddrrrdrddrrrrrrdrrdedrdrrrrdrddrrdb
+bddrrrrrrrdrddrrerrrdrrdddrdrerrdrrrddrb
+brrdrddrrrrrrdrrdddeeddrrdrddrrdrdderrdb
+brrdrddrrrrrrdrrdedrdrrrrdrdrdrrddrrdrdb
+bdddrrdrdeddrrddrrdddrrdrdrrredrddrrdrdb
+brrrrrdrrddddeerrrdrdderdrddrerrddddddrb
+bdrddbbbbbbbebbbbbdrrrrdrbbbbbbebbbbbbrb
+bdedd.............rddrrrd.............rb
+bdrdr..ml.........rddrrrd.............rb
+bdrrd.............rerrddr.............rb
+bdrrd.............ddddrdr.............db
+brddd......drrdedr.............db......b
+brrrr.............drrddrr.............rb
+bdrdd.............erdrrdr.............rb
+bdrdd............bbbbbbbbb............rb
+brrrd.................................rb
+brrrd.............dderdrd.............rb
+bddrr.............rrrdrdd.............rb
+bddeebbbbbbbbbbbbbdrrrdddbbbbbbbbbbbbbdb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb

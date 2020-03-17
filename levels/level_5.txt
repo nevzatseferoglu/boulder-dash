@@ -1,0 +1,28 @@
+Id = 5
+Width = 40
+Height = 22
+Diamond = 5
+Time = 170
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bmeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeee..seeeee..seeeee..seeeee..seeeeb
+beeeeeee...eeeee...eeeee...eeeee...eeeeb
+beeeeeee.d.eeeee.d.eeeee.d.eeeee.d.eeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeee..seeeee..seeeee..seeeee..seeeeb
+beeeeeee...eeeee...eeeee...eeeee...eeeeb
+beeeeeee.d.eeeee.d.eeeee.d.eeeee.d.eeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeb
+beeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeelb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb

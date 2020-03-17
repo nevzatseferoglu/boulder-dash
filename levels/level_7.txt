@@ -1,0 +1,28 @@
+Id = 7
+Width = 40
+Height = 22
+Diamond = 3
+Time = 195
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+be.ee.erreeeee.eere.meeee.rr.reere.e..eb
+b.eere.ee.e..eeee.erere.eee..reeredee.eb
+breeeee..ese..eee.erere.eee.bbbbbbbbbbbb
+beredeee.e..eeeeee.eerreereeee.e.eee.e.b
+bbbbbbbbbbbbbere.ee...ree.eeee.eeereeeeb
+bre.reeeeee.eere.eee.eere..eere..seeeeeb
+bre.reeeeee.ee.reereeee.eeereeeeeererreb
+beee.eer..eee.eere..eere..eee.eeeererreb
+beee.eere.ereeee.eeeseeeeeereree..reereb
+b..ee.reeee.eerereeee.e..eeeeeee..dee.eb
+be.eee.ee.e..ee.e..eeeeerr.reere.e.ree.b
+bee.deerereeee.e..eeeeeer..reere.e..eeeb
+bere..eere..eee.erere.eee..ree.eeee.eeeb
+beeee..ere..eee.erere.ere.e.ree.reeee.eb
+be..eeee.eeee..ee.r.reereeee.eeereee.erb
+beeeee.e..erre.eee..ree.ereee.reerereeeb
+b.reeeeee.eere.ereeee.e..eere..reeeeeeeb
+b.reeeeee.ee.reereeee.eeereeeeeererreeeb
+be.eere.eee.eere..edde..eee.eeeererreelb
+be.edrseereeee.eeereeeeeererseeeeedreeeb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb

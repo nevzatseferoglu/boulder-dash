@@ -1,0 +1,28 @@
+Id = 6
+Width = 40
+Height = 22
+Diamond = 2
+Time = 190
+
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbeeeerereereeeeeeeerebbbbbbbbbb
+b.........eeeeeeeeeeereeeereee.........b
+b..ds.....eereeeeeeeeeereeeree.....sd..b
+bbbbbbbbbbeereeeeeeeereeeeeerebbbbbbbbbb
+b.........eeeeeereeereeeeeeere.........b
+b..ds.....eeeereeeeeererreeeee.....sd..b
+bbbbbbbbbberreeeeeeeererreeeeebbbbbbbbbb
+b.........eeeerereeeereereeeee.........b
+b..ds.....eeeerereeeereereeree.....sd..b
+bbbbbbbbbberrereereeeereeereeebbbbbbbbbb
+b.........errereereeeeeeeeeeee.........b
+bds.....eeeereereeeeeeeereee.......sd..b
+bbbbbbbbbbeeeeereeereeeereereebbbbbbbbbb
+beeeerereereeeeeeeereeeeereeeeeeeeeeeerb
+beereeereeeereeeereerereeereereeeeeeeeeb
+beereeeereeeeereeereeeeeeereereeeeeeeeeb
+beeeeeeeeeeereeeeeererreeeeeeeeereeeeeeb
+bremeeereeeeeeeeeeererreeeeeeeeerreerelb
+beeeereeeeeererreeeeeereeeeeeeereereeeeb
+brreeeeeeeeererreeeeeeeeereererereereeeb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
